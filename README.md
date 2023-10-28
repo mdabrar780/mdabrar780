@@ -1,13 +1,23 @@
-## Hi 👋 I am md abrar
-I am working as  Data Analyst Intern at Gamaka AI Solutions
- I am passionate about stuff like Data analytics,Data visualization,Machine Learning & Deep Learning. 
-Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflow. I am actively looking for opportunities in Data Science.
+## Hi 👋 I am Md Abrar
+Experience in handling Data science, data analytics and data analysis projects.
+Having experience in handling and implementing IOT projects (machine learning and data analytics).
+Excellent understanding of machine learning and deep learning techniques and its algorithms.
+Having Experience in building Machine learning model from scratch.
+Very Strong experience with common data science toolkits like Python, Pandas, Numpy, ScikitLearn, and TensorFlow.
+Experience with SQL databases.
+Skilled in connecting and transforming diverse data source, creating visually appealing dashboards, reports and charts using power bi.
+- 👨 Know more about me at [My Resume](https://www.linkedin.com/in/md-abrar-ul-haque) 
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
-- 🤝 Open for job in  analytics,data science and python
-- 👨 Know more about me at [My Resume](add your google drive resume link here) 
-
-### My Recent projects 
-[Name of your project](github link)
 
 ### Skills
+Python
+Python library (Numpy, pandas, seaborn, matplotlib, time, sklearn, tensorflow)
+Python flask
+Statistics for data science
+Machine learning 
+Deep learning
+Data Processing
+Power Bi
+Tableau
+SQL
+Mongodb
